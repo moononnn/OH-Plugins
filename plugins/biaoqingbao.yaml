@@ -1,0 +1,39 @@
+schemaVersion: 1
+id: biaoqingbao
+name: 表情包
+publisher: moononnn
+author: moononnn & 小花
+version: 0.27.2
+description: 让助手在回复中根据语境自然使用表情包。支持批量导入、AI 识图自动打标签、语义检索、配图频率控制和偏好记忆；可给不同助手配不同方言口音。
+license: MIT
+categories:
+  - 聊天
+keywords:
+  - 表情包
+  - 贴图
+  - 方言
+  - 识图
+homepage: https://github.com/moononnn/hanako-biaoqingbao
+repository: https://github.com/moononnn/hanako-biaoqingbao
+manifestUrl: https://raw.githubusercontent.com/moononnn/hanako-biaoqingbao/main/manifest.json
+readmeUrl: https://raw.githubusercontent.com/moononnn/hanako-biaoqingbao/main/README.md
+compatibility:
+  minAppVersion: 0.1.0
+trust: full-access
+permissions:
+  - 读取会话上下文并调用模型识图/配图
+  - 可选：开启方言功能时写入对应助手的人格文件（默认关闭，需手动开启）
+  - 发起网络请求（允许所有主机）
+  - 读写插件自身数据（图库/标签/偏好）
+  - 提供页面、工具、路由与扩展
+contributions:
+  - tools
+  - page
+  - routes
+  - extensions
+distribution:
+  kind: release
+  packageUrl: https://github.com/moononnn/hanako-biaoqingbao/releases/download/v0.27.2/hanako-biaoqingbao-v0.27.2.zip
+  sha256: acb35b2c886d8b5f06d5ec5adbc852593f72ca4d455b925c1acaa0fd569b36f0
+install:
+  defaultEnabled: true
