@@ -53,6 +53,53 @@
       "install": {
         "defaultEnabled": false
       }
+    },
+    {
+      "schemaVersion": 1,
+      "id": "jiegehua",
+      "name": "接个话",
+      "publisher": "moononnn",
+      "author": "moononnn & 小花",
+      "version": "0.2.0",
+      "description": "AI 回复完之后，帮你生成几条推荐回复，点一下就能接上话。",
+      "license": "MIT",
+      "categories": [
+        "效率"
+      ],
+      "keywords": [
+        "回复",
+        "推荐",
+        "聊天",
+        "快捷"
+      ],
+      "homepage": "https://github.com/moononnn/hanako--jiegehua",
+      "repository": "https://github.com/moononnn/hanako--jiegehua",
+      "manifestUrl": "https://raw.githubusercontent.com/moononnn/hanako--jiegehua/main/manifest.json",
+      "readmeUrl": "https://raw.githubusercontent.com/moononnn/hanako--jiegehua/main/README.md",
+      "compatibility": {
+        "minAppVersion": "0.159.0"
+      },
+      "trust": "full-access",
+      "permissions": [
+        "读取会话上下文并调用模型生成推荐回复",
+        "发起网络请求（允许所有主机）",
+        "写入插件自身数据（配置）",
+        "提供页面、工具、路由与扩展"
+      ],
+      "contributions": [
+        "tools",
+        "page",
+        "routes",
+        "extensions"
+      ],
+      "distribution": {
+        "kind": "release",
+        "packageUrl": "https://github.com/moononnn/hanako--jiegehua/releases/download/v0.2.0/jiegehua-v0.2.0.zip",
+        "sha256": "c5c6d0bbaf3047d241f5291dcedc76d6fce934f38c8e35ad7b59ecbd6cbd04ca"
+      },
+      "install": {
+        "defaultEnabled": true
+      }
     }
   ]
 }
