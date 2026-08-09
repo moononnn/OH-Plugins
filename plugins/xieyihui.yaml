@@ -3,7 +3,7 @@ id: xieyihui
 name: 歇一会
 publisher: moononnn
 author: moononnn & 小花
-version: 0.9.0
+version: 0.10.0
 description: 温柔又执着的休息提醒助手。强制模式会用当前助手的性格和最近对话实时劝你休息，还会划走按钮、加时、记欠账、攒成就。
 license: MIT
 categories:
@@ -32,7 +32,7 @@ contributions:
   - routes
 distribution:
   kind: release
-  packageUrl: https://github.com/moononnn/xieyihui/releases/download/v0.9.0/xieyihui-0.9.0-share.zip
-  sha256: d472a6155d7ccece66452771de0464b151bf574c40bbdcc4d0a7b329ea87ddfc
+  packageUrl: https://github.com/moononnn/xieyihui/releases/download/v0.10.0/xieyihui-0.10.0-share.zip
+  sha256: 0ae64062a3af483709bb69c4e9231c20fc34527e7f329f76c95c50b4d28e2925
 install:
   defaultEnabled: true
