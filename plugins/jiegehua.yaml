@@ -1,10 +1,10 @@
 schemaVersion: 1
 id: jiegehua
-name: 接个话
+name: 解语花
 publisher: moononnn
 author: moononnn & 小花
-version: 0.2.0
-description: AI 回复完之后，帮你生成几条推荐回复，点一下就能接上话。
+version: 0.4.0
+description: AI 回复完之后，帮你生成几条推荐回复，点一下就能接上话。可选回复卡片或桌面解语花悬浮球（一朵会接话的樱花）。
 license: MIT
 categories:
   - 效率
@@ -12,11 +12,11 @@ keywords:
   - 回复
   - 推荐
   - 聊天
-  - 快捷
-homepage: https://github.com/moononnn/hanako--jiegehua
-repository: https://github.com/moononnn/hanako--jiegehua
-manifestUrl: https://raw.githubusercontent.com/moononnn/hanako--jiegehua/main/manifest.json
-readmeUrl: https://raw.githubusercontent.com/moononnn/hanako--jiegehua/main/README.md
+  - 解语花
+homepage: https://github.com/moononnn/hanako-jieyuhua
+repository: https://github.com/moononnn/hanako-jieyuhua
+manifestUrl: https://raw.githubusercontent.com/moononnn/hanako-jieyuhua/main/manifest.json
+readmeUrl: https://raw.githubusercontent.com/moononnn/hanako-jieyuhua/main/README.md
 compatibility:
   minAppVersion: 0.159.0
 trust: full-access
@@ -32,7 +32,7 @@ contributions:
   - extensions
 distribution:
   kind: release
-  packageUrl: https://github.com/moononnn/hanako--jiegehua/releases/download/v0.2.0/jiegehua-v0.2.0.zip
-  sha256: c5c6d0bbaf3047d241f5291dcedc76d6fce934f38c8e35ad7b59ecbd6cbd04ca
+  packageUrl: https://github.com/moononnn/hanako-jieyuhua/releases/download/v0.4.0/jiegehua-v0.4.0.zip
+  sha256: 5951401409ce1e77ec5290f2ae3c5d60a6b3ccd1d1ef5f5b43af1630636e52c6
 install:
   defaultEnabled: true
