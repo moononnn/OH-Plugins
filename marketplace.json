@@ -60,7 +60,7 @@
       "name": "解语花",
       "publisher": "moononnn",
       "author": "moononnn & 小花",
-      "version": "0.5.0",
+      "version": "0.7.0",
       "description": "AI 回复完之后，帮你生成几条推荐回复，点一下就能接上话。可选回复卡片或桌面解语花悬浮球（一朵会接话的樱花）。",
       "license": "MIT",
       "categories": [
@@ -94,8 +94,8 @@
       ],
       "distribution": {
         "kind": "release",
-        "packageUrl": "https://github.com/moononnn/hanako-jieyuhua/releases/download/v0.5.0/hanako-jieyuhua-v0.5.0.zip",
-        "sha256": "9c529e8019cc4ada30dd7ca0e26e65ead791310246d0fdbb365bb251e08d335c"
+        "packageUrl": "https://github.com/moononnn/hanako-jieyuhua/releases/download/v0.7.0/hanako-jieyuhua-v0.7.0.zip",
+        "sha256": "f16f255df6cfd179b0c6dedb3b5af4ea9f68ea124904c0845776df4997892eb5"
       },
       "install": {
         "defaultEnabled": true
