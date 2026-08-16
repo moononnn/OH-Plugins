@@ -7,7 +7,7 @@
       "name": "表情包",
       "publisher": "moononnn",
       "author": "moononnn & 小花",
-      "version": "0.30.10",
+      "version": "0.30.11",
       "description": "让助手在回复中根据语境自然使用表情包。支持批量导入、AI 识图自动打标签、语义检索、配图频率控制和偏好记忆；「学我说话」可让不同助手模仿你的说话习惯。",
       "license": "MIT",
       "categories": [
@@ -42,8 +42,8 @@
       ],
       "distribution": {
         "kind": "release",
-        "packageUrl": "https://github.com/moononnn/hanako-biaoqingbao/releases/download/v0.30.10/biaoqingbao-v0.30.10.zip",
-        "sha256": "712e8e839d64cc791dd1c889999d167d93de9abfa5c9809ebdf78618487876f3"
+        "packageUrl": "https://github.com/moononnn/hanako-biaoqingbao/releases/download/v0.30.11/biaoqingbao-v0.30.11.zip",
+        "sha256": "27e6c5fb9ed3c83a6161d58960ca143225f1d6fb0e4670e7c319fb7a721401a0"
       },
       "install": {
         "defaultEnabled": true
