@@ -3,8 +3,8 @@ id: biaoqingbao
 name: 表情包
 publisher: moononnn
 author: moononnn & 小花
-version: 0.30.11
-description: 让助手在回复中根据语境自然使用表情包。支持批量导入、AI 识图自动打标签、语义检索、配图频率控制和偏好记忆；「学我说话」可让不同助手模仿你的说话习惯。
+version: 0.33.50
+description: 让助手在回复中根据语境自然使用表情包。支持批量导入、AI 识图打标签（含动图）、语义检索与偏好记忆；纸飞机悬浮球随时取用，配图手帐记录反馈；「学我说话」可让不同助手模仿你的说话习惯。
 license: MIT
 categories:
   - 聊天
@@ -33,7 +33,7 @@ contributions:
   - extensions
 distribution:
   kind: release
-  packageUrl: https://github.com/moononnn/hanako-biaoqingbao/releases/download/v0.30.11/biaoqingbao-v0.30.11.zip
-  sha256: 27e6c5fb9ed3c83a6161d58960ca143225f1d6fb0e4670e7c319fb7a721401a0
+  packageUrl: https://github.com/moononnn/hanako-biaoqingbao/releases/download/v0.33.50/biaoqingbao-v0.33.50.zip
+  sha256: d1893abc7057d8d90ae7c9ca28bd258cf02bc795d3da3998cdadfc05bfcd7807
 install:
   defaultEnabled: true
