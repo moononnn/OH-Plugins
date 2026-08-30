@@ -60,7 +60,7 @@
       "name": "闲不住",
       "publisher": "moononnn",
       "author": "moononnn & 小花",
-      "version": "3.0.3",
+      "version": "3.1.11",
       "description": "在工作时给助手送互动、礼物和恶作剧。展板显示所有助手今天的实时状态，光粒系统自动积累，小铺提供付费礼物。通用设计，自动扫描助手目录，无需手动配置。",
       "license": "MIT",
       "categories": [
@@ -94,8 +94,8 @@
       ],
       "distribution": {
         "kind": "release",
-        "packageUrl": "https://github.com/moononnn/xianbuzhu/releases/download/v3.0.3/xianbuzhu-v3.0.3.zip",
-        "sha256": "4358d8d1bc9ab8e1a9705613832fedec90f2d426d8bf827fff5ee2bd19f5a94c"
+        "packageUrl": "https://github.com/moononnn/xianbuzhu/releases/download/v3.1.11/xianbuzhu-v3.1.11.zip",
+        "sha256": "d99c9ee5a4cbf51d8038d4d633544f1fb94603aba291ae4bf3280032bb249896"
       },
       "install": {
         "defaultEnabled": true
