@@ -60,7 +60,7 @@
       "name": "提个醒",
       "publisher": "moononnn",
       "author": "moononnn & 小花",
-      "version": "0.4.1",
+      "version": "0.4.16",
       "description": "替小花记住发弹窗的小喇叭。回复完成自动弹 Windows 通知，同窗口多条合并、跨窗口分开提醒，带静默时段和按助手个性化的音效与通知风格。",
       "license": "MIT",
       "categories": [
@@ -93,8 +93,8 @@
       ],
       "distribution": {
         "kind": "release",
-        "packageUrl": "https://github.com/moononnn/Hanako-tigexing/releases/download/v0.4.1/hanako-tigexing-0.4.1.zip",
-        "sha256": "fecf9d0ebdc529b4202ca97f8683a1ba82d2e6decf2e3bbef0a53fb41c3acc5c"
+        "packageUrl": "https://github.com/moononnn/Hanako-tigexing/releases/download/v0.4.16/hanako-tigexing-0.4.16.zip",
+        "sha256": "8d6ed68d495a3d70562af1c5ffc134625c8ff163b3e7b370933d6c67a18684a4"
       },
       "install": {
         "defaultEnabled": true
